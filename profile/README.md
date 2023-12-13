@@ -1,6 +1,6 @@
 # 🧁MuffinGroup
 
-We are a small organization for open-source projects. This organization has been archived. Most projects were moved to [Isible](https://github.com/MuffinGroup/Isible)
+We are a small organization for open-source projects. This organization has been archived. Most projects were moved to [Isible](https://github.com/Isible)
 
 At the moment our main projects are:
 
